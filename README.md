@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ingvar-m/ingvar-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner developer. 
 
-Here are some ideas to get you started:
+I'm focused on learning how to build clean, functional applications and exploring mobile development logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a fresh profile where I'll be uploading my learning projects, experiments, and things I'm currently working on. Everything here is built from scratch as I practice my coding skills.
+
+---
+
+### I use
+
+* Flutter, Dart
+* Figma
